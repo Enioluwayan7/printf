@@ -1,5 +1,5 @@
 GROUP PROJECT
-project Partner: ALicia GWANDILI
+project Partner: Alicia Gandiwa
 
 0x11. C - printf
 Resources
